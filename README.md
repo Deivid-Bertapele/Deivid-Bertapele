@@ -12,7 +12,7 @@ My name's Deivid Bertapele.
     align="left" 
     alt="Vscode" 
     title="Vscode"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
           
@@ -20,7 +20,7 @@ My name's Deivid Bertapele.
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -29,7 +29,7 @@ My name's Deivid Bertapele.
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -37,7 +37,7 @@ My name's Deivid Bertapele.
     align="left" 
     alt="Pandas" 
     title="Pandas"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" 
 />
@@ -46,7 +46,7 @@ My name's Deivid Bertapele.
     align="left" 
     alt="Jupyter" 
     title="Jupyter"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" 
 />
@@ -55,7 +55,7 @@ My name's Deivid Bertapele.
     align="left" 
     alt="Colab" 
     title="Colab"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;"  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg"
 />
@@ -64,7 +64,7 @@ My name's Deivid Bertapele.
     align="left" 
     alt="MySQLite" 
     title="MySQLite"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" 
 />
@@ -74,16 +74,17 @@ My name's Deivid Bertapele.
   align="left" 
   alt="Google Cloud" 
   title="Google Cloud"
-  width="30px" 
+  width="40px" 
   style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" />
+  src="https://c40pxdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg"
+/>
           
 
 <img 
   align="left" 
   alt="AWS" 
   title="AWS"
-  width="30px" 
+  width="40px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
@@ -91,7 +92,7 @@ My name's Deivid Bertapele.
   align="left" 
   alt="Streamlit" 
   title="Streamlit"
-  width="30px" 
+  width="40px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" />
           
@@ -100,7 +101,7 @@ My name's Deivid Bertapele.
   align="left" 
   alt="Scikitlearn" 
   title="Scikitlearn"
-  width="30px" 
+  width="40px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 
@@ -110,7 +111,7 @@ My name's Deivid Bertapele.
   align="left" 
   alt="Docker" 
   title="Docker"
-  width="30px" 
+  width="40px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
           
