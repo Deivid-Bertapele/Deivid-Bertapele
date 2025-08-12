@@ -69,17 +69,15 @@ My name's Deivid Bertapele.
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" 
 />
 
-
 <img 
   align="left" 
   alt="Google Cloud" 
   title="Google Cloud"
   width="40px" 
   style="padding-right: 10px;" 
-  src="https://c40pxdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" 
 />
           
-
 <img 
   align="left" 
   alt="AWS" 
@@ -115,8 +113,6 @@ My name's Deivid Bertapele.
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
           
-
-
 <br/>
 <br/>
 
